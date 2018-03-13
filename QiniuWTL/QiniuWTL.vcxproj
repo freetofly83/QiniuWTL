@@ -226,6 +226,9 @@
   <ItemGroup>
     <Image Include="res\QiniuWTL.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="configure.ini" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
