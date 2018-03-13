@@ -26,7 +26,7 @@ extern CAppModule _Module;
 #include <atlddx.h>
 
 
-#include <stdio.h>  
+#include <stdio.h> 
 #include <stdarg.h>  
 #include <time.h>  
 
